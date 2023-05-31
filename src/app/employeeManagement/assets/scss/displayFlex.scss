@@ -1,0 +1,22 @@
+.flex-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.font-family {
+  h6,
+  h5,
+  p {
+    font-family: "Times New Roman", Times, serif;
+  }
+
+  h6,
+  h5 {
+    font-weight: 600;
+  }
+
+  p {
+    font-size: 18px;
+  }
+}
